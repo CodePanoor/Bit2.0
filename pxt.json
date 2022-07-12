@@ -1,7 +1,7 @@
 {
     "name": "bit",
     "version": "0.0.0",
-    "description": "bit1.0",
+    "description": "bit",
     "dependencies": {
         "core": "*",
         "radio": "*",
@@ -20,5 +20,5 @@
         "microbit"
     ],
     "preferredEditor": "blocksprj",
-    "license": "\u0016MIT"
+    "license": "MIT"
 }
